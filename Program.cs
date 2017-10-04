@@ -328,11 +328,7 @@ namespace MinerCommander_Client
                         goto начало;
                     }
                 }
-                //if ((21 == System.DateTime.Now.Hour && 00 == System.DateTime.Now.Minute))
-                //{
-                //    ОтправитьБалансВгруппу();
-                //}
-
+              
             }
             catch(Exception ex) {
                 XDocument xDocument = XDocument.Load("minercommander.xml");
