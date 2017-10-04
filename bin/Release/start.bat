@@ -1,0 +1,1 @@
+EthDcrMiner64.exe -epool  eu2.ethermine.org:4444 -ewal 0x0bbf4a5b9b4c4360f6aedf4ba289515b8a24218e.G2 -epsw x -dpool stratum+tcp://dcr.suprnova.cc:3252 -dwal rsomainer.pc1 -dpsw rsotun86 -tstop 95

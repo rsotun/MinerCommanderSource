@@ -1,0 +1,15 @@
+c:\users\stas\source\repos\MinerCommander-Client\MinerCommander-Client\obj\Debug\MinerCommander-Client.csprojResolveAssemblyReference.cache
+c:\users\stas\source\repos\MinerCommander-Client\MinerCommander-Client\obj\Debug\MinerCommander-Client.csproj.CoreCompileInputs.cache
+c:\users\stas\source\repos\MinerCommander-Client\MinerCommander-Client\bin\Debug\start.bat
+C:\Users\Stas\source\repos\MinerCommander-Client\MinerCommander-Client\bin\Debug\minercommander.xml
+C:\Users\Stas\source\repos\MinerCommander-Client\MinerCommander-Client\bin\Debug\MinerCommander.exe.config
+C:\Users\Stas\source\repos\MinerCommander-Client\MinerCommander-Client\bin\Debug\MinerCommander.exe
+C:\Users\Stas\source\repos\MinerCommander-Client\MinerCommander-Client\bin\Debug\MinerCommander.pdb
+C:\Users\Stas\source\repos\MinerCommander-Client\MinerCommander-Client\obj\Debug\MinerCommander.exe
+C:\Users\Stas\source\repos\MinerCommander-Client\MinerCommander-Client\obj\Debug\MinerCommander.pdb
+C:\Users\Stas\source\repos\MinerCommander-Client\MinerCommander-Client\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Stas\source\repos\MinerCommander-Client\MinerCommander-Client\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Stas\source\repos\MinerCommander-Client\MinerCommander-Client\bin\Debug\WebDAVClient.dll
+C:\Users\Stas\source\repos\MinerCommander-Client\MinerCommander-Client\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Stas\source\repos\MinerCommander-Client\MinerCommander-Client\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Stas\source\repos\MinerCommander-Client\MinerCommander-Client\obj\Debug\MinerCommander-Client.csproj.App.config

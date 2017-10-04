@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<miner>
+  <GPU type="AMD" ram="8" name="RX570" />
+  <commander reftime="30" waitmsi="False" urlxml="http://xxxx.ru/minerset.xml" laststr="" />
+  <yandex use="True" usedefault="True" login="logg" password="pss" server="https://webdav.yandex.ru" filename="minerset.xml" />
+</miner>
